@@ -71,8 +71,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Backend Development</h3>
 
 ###
