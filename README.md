@@ -39,17 +39,20 @@
 ###
 
 <div align="left">
+  <a href="https://m-a-askat.web.app" target="_blank" title="My Portfolio">
+    <img src="https://i.ibb.co/0fHyH4P/Askat-s-Portfolio.png" height="40px" alt="Portfolio"  />
+  </a>
+  <img width="12" />
   <a href="https://www.linkedin.com/in/md-abdul-ashkat" target="_blank" title="Linkedin">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <img width="12" />
   <a href="mailto:abdulaskat@gmail.com" target="_blank" title="Gmail">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  <img width="12" />
   <a href="https://wa.me/+8801533748066" target="_blank" title="Whatsapp">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://m-a-askat.web.app" target="_blank" title="My Portfolio">
-    <img src="https://i.ibb.co/0fHyH4P/Askat-s-Portfolio.png" height="40px" alt="Portfolio"  />
   </a>
 </div>
 
