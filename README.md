@@ -7,6 +7,7 @@
 <h3 align="center">Hi there! 👋</h3>
 <h1 align="center">I'm <strong>&lt;M. A. ASKAT/&gt;</strong></h1>
 <p align="center">"Crafting user-friendly web solutions | Front-End Enthusiast 🚀 | MERN Stack Explorer"</p>
+
 ###
 
 <p align="center">"A passionate Front-End Developer and aspiring Full-Stack MERN Developer. I specialize in building intuitive, reusable web components and love bringing ideas to life on the web. Feel free to explore my projects and connect with me—thanks for stopping by! 🚀"</p>
