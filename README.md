@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello there, 👋 I'm {"<M. A. ASKAT />"}</h1>
+<h1 align="center">Hello there, 👋 I'm {"M. A. ASKAT"}</h1>
 
 ###
 
