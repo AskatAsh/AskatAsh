@@ -5,7 +5,7 @@
 ###
 
 <h3 align="center">Hi there! 👋</h3>
-<h1 align="center">I'm <strong>&lt;M. A. ASKAT / &rt;</strong></h1>
+<h1 align="center">I'm <strong>&lt;M. A. ASKAT/&gt;</strong></h1>
 
 ###
 
