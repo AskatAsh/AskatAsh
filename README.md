@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="./Banner image.jpg" />
+<img src="./Github Banner.jpg" />
 <!--
 **AskatAsh/AskatAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
