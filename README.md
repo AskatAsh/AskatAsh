@@ -105,7 +105,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="Javascript" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="Javascript" />
 </div>
 
 ###
