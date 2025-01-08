@@ -104,7 +104,8 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C programming" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
-
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="Javascript" />
 </div>
 
 ###
@@ -114,10 +115,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C programming" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="GitHub" />
