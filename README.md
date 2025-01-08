@@ -4,8 +4,8 @@
 
 ###
 
-<h3 align="center">Hello there!</h3>
-<h1 align="center">I'm {"M. A. ASKAT"}</h1>
+<h3 align="center">Hi there! 👋</h3>
+<h1 align="center">I'm **M. A. ASKAT**</h1>
 
 ###
 
