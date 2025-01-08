@@ -96,6 +96,19 @@
 
 ###
 
+<h3 align="left">Programming Languages</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="C programming" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
+
+</div>
+
+###
+
 <h3 align="left">Tools & Other</h3>
 
 ###
