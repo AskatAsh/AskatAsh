@@ -16,7 +16,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2022 (but learning to squash them like a pro!)<br>📚 Currently learning: Advanced React, Node.js, and mastering full-stack (MERN) development.<br>💻 Currently working on: A professional GitHub profile README and enhancing my portfolio website using React and Tailwind CSS.<br>🎯 Goals: To excel as a Full-Stack Developer and make meaningful contributions to any platform or company I collaborate with.<br>🤡 Fun fact: I love sleeping and often come up with creative ideas in my dreams—though sometimes they vanish by morning!</p>
+- ✨ Creating bugs since: 2022 (but learning to squash them like a pro!)
+- 📚 Currently learning: Advanced React, Node.js, and mastering full-stack (MERN) development.
+- 💻 Currently working on: A professional GitHub profile README and enhancing my portfolio website using React and Tailwind CSS.
+- 🎯 Goals: To excel as a Full-Stack Developer and make meaningful contributions to any platform or company I collaborate with.
+- 🤡 Fun fact: I love sleeping and often come up with creative ideas in my dreams—though sometimes they vanish by morning!
 
 ###
 
