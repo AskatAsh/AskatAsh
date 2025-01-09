@@ -10,11 +10,11 @@
 
 ###
 
-<p align="center">"A passionate Front-End Developer and aspiring Full-Stack MERN Developer. I specialize in building intuitive, reusable web components and love bringing ideas to life on the web. Feel free to explore my projects and connect with me—thanks for stopping by! 🚀"</p>
+<p align="center">"A passionate 🔥 Front-End Developer and aspiring Full-Stack MERN Developer. I specialize in building intuitive, reusable web components and love bringing ideas to life on the web. Feel free to explore my projects and connect with me—thanks for stopping by! 🚀"</p>
 
 ###
 
-<h2 align="left">Behind the Code</h2>
+<h2 align="left">👨‍💻 Behind the Code</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Let's Connect</h2>
+<h2 align="left">📧 Let's Connect</h2>
 
 ###
 
@@ -58,11 +58,11 @@
 
 ###
 
-<h2 align="left">My Skill Set</h2>
+<h2 align="left">📝 My Skill Set</h2>
 
 ###
 
-<h3 align="left">Frontend Development</h3>
+<h3 align="left">🖥️ Frontend Development</h3>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h3 align="left">Backend Development</h3>
+<h3 align="left">📦 Backend Development</h3>
 
 ###
 
@@ -96,7 +96,7 @@
 
 ###
 
-<h3 align="left">Programming Languages</h3>
+<h3 align="left">📊 Programming Languages</h3>
 
 ###
 
@@ -110,7 +110,7 @@
 
 ###
 
-<h3 align="left">Tools & Other</h3>
+<h3 align="left">⚙️ Tools & Other</h3>
 
 ###
 
