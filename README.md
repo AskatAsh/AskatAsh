@@ -76,6 +76,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="Javascript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="ReactJs" />
+  <img width="12" />
+  <img src="./ShadcnUI-logo.png" height="40" alt="react logo" title="ShadcnUI" />
 </div>
 
 ###
