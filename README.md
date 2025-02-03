@@ -77,7 +77,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="ReactJs" />
   <img width="12" />
-  <img src="./ShadcnUI-logo.png" height="40" alt="react logo" title="ShadcnUI" />
+  <img src="./ShadcnUI-logo.png" height="40" alt="react logo" title="ShadcnUI" style="background-color: #fcfcfc;" />
 </div>
 
 ###
