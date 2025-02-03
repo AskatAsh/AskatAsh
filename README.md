@@ -92,6 +92,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" title="Firebase" />
+  <img width="12" />
+  <img src="https://i.ibb.co/tw4TqhKD/img-icons8.png" height="40" alt="JWT logo" title="JWT (JsonWebToken)" />
 </div>
 
 ###
