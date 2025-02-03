@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">"A passionate 🔥 Front-End Developer and aspiring Full-Stack MERN Developer. I specialize in building intuitive, reusable web components and love bringing ideas to life on the web. Feel free to explore my projects and connect with me—thanks for stopping by! 🚀"</p>
+<p align="center">"A skilled 🔥 Front-End Developer and aspiring Full-Stack MERN Developer. I specialize in building intuitive, reusable web components and love bringing ideas to life on the web. Feel free to explore my projects and connect with me—thanks for stopping by! 🚀"</p>
 
 ###
 
