@@ -20,9 +20,9 @@
 
 - ✨ Creating bugs since: 2022 (but learning to squash them like a pro!)
   
-- 📖 Learning: Advanced React, Node.js, and mastering full-stack (MERN) development.
+- 📖 Learning: Advanced React, Node.js, and Exploring Next.js with projects.
   
-- 💼 Current Project: Building a Restaurant Management Website using the MERN stack (MongoDB, Express.js, React with Vite, and Node.js).
+- 💼 Current Project: Building a Parcel Management App with Admin, Deliveryman and User Dashboard using MERN stack.
 
 - 🎯 Goal: Excel as a Full-Stack Developer & make meaningful contributions.
 
